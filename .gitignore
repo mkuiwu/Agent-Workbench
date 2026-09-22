@@ -1,0 +1,12 @@
+node_modules
+dist
+.idea/
+.DS_Store
+*.log
+agents/
+HEARTBEAT.md
+*.db
+*.db-shm
+*.db-wal
+.env.*
+.env
